@@ -1,0 +1,177 @@
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-login {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 240, 1);
+}
+.login-rectangle1 {
+  top: 69px;
+  left: -41px;
+  width: 1066px;
+  height: 929px;
+  position: absolute;
+  border-radius: 30px;
+}
+.login-logo-website-dpkk1 {
+  top: 222px;
+  left: 370px;
+  width: 272px;
+  height: 48px;
+  position: absolute;
+}
+.login-img20230524wa00531 {
+  top: 69px;
+  left: -55px;
+  width: 1084px;
+  height: 685px;
+  opacity: 0.50;
+  position: absolute;
+}
+.login-logovestiario1 {
+  top: 225px;
+  left: 380px;
+  width: 44px;
+  height: 43px;
+  opacity: 0.80;
+  position: absolute;
+}
+.login-rectangle5 {
+  top: 349px;
+  left: 325px;
+  width: 311px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.login-text {
+  top: 293px;
+  left: 447px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-rectangle9 {
+  top: 410px;
+  left: 325px;
+  width: 311px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.login-rectangle10 {
+  top: 464px;
+  left: 416px;
+  width: 129px;
+  height: 27px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 25px;
+}
+.login-text02 {
+  top: 331px;
+  left: 346px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text04 {
+  top: 393px;
+  left: 339px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-outline-status-lock {
+  top: 416px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-solid-communication-user {
+  top: 355px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-text06 {
+  top: 468px;
+  left: 456px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text08 {
+  top: 515px;
+  left: 534px;
+  color: rgba(34, 147, 211, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text10 {
+  top: 515px;
+  left: 345px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

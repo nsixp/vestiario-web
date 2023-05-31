@@ -1,0 +1,183 @@
+.dashboard2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.dashboard2-dashboard2 {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 240, 1);
+}
+.dashboard2-icbaselinesearch {
+  top: 457px;
+  left: 984px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard2-stussy1 {
+  top: 145px;
+  left: -57px;
+  width: 1097px;
+  height: 555px;
+  position: absolute;
+}
+.dashboard2-line2 {
+  top: 123px;
+  left: 180px;
+  width: 63px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard2-rectangle1 {
+  top: 68px;
+  left: -41px;
+  width: 1066px;
+  height: 77px;
+  position: absolute;
+  border-radius: 30px;
+}
+.dashboard2-text {
+  top: 94px;
+  left: 387px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard2-text02 {
+  top: 94px;
+  left: 536px;
+  color: rgba(0, 0, 0, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard2-text04 {
+  top: 94px;
+  left: 257px;
+  color: rgba(0, 0, 0, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard2-text06 {
+  top: 94px;
+  left: 173px;
+  color: rgba(0, 0, 0, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard2-group1 {
+  top: 86px;
+  left: 803px;
+  width: 104px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(239, 236, 236, 0.5);
+}
+.dashboard2-text08 {
+  top: 9px;
+  left: 22px;
+  color: rgba(0, 0, 0, 0.25);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard2-logo-website-dpkk1 {
+  top: 9px;
+  left: -28px;
+  width: 272px;
+  height: 48px;
+  position: absolute;
+}
+.dashboard2-logovestiario1 {
+  top: 88px;
+  left: 21px;
+  width: 44px;
+  height: 43px;
+  opacity: 0.80;
+  position: absolute;
+}
+.dashboard2-rectangle6 {
+  top: 17px;
+  left: 754px;
+  width: 91px;
+  height: 36px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.dashboard2-text10 {
+  top: 23px;
+  left: 778px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

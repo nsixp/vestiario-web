@@ -1,0 +1,181 @@
+.about-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.about-about {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 240, 1);
+}
+.about-rectangle1 {
+  top: 72px;
+  left: -41px;
+  width: 1066px;
+  height: 929px;
+  position: absolute;
+  border-radius: 30px;
+}
+.about-logo-website-dpkk1 {
+  top: 113px;
+  left: 373px;
+  width: 272px;
+  height: 48px;
+  position: absolute;
+}
+.about-img20230524wa00531 {
+  top: 68px;
+  left: -50px;
+  width: 1084px;
+  height: 685px;
+  opacity: 0.10;
+  position: absolute;
+}
+.about-logovestiario1 {
+  top: 115px;
+  left: 385px;
+  width: 44px;
+  height: 43px;
+  opacity: 0.80;
+  position: absolute;
+}
+.about-text {
+  top: 617px;
+  left: 149px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-outline-status-lock {
+  top: 477px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.about-text02 {
+  top: 617px;
+  left: 443px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text04 {
+  top: 612px;
+  left: 737px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text06 {
+  top: 167px;
+  left: 379px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-whats-app-image20230530at19341 {
+  top: 236px;
+  left: 358px;
+  width: 271px;
+  height: 362px;
+  position: absolute;
+}
+.about-about1 {
+  top: 236px;
+  left: 661px;
+  width: 241px;
+  height: 362px;
+  position: absolute;
+}
+.about-whats-app-image20230530at19581 {
+  top: 236px;
+  left: 69px;
+  width: 257px;
+  height: 362px;
+  position: absolute;
+}
+.about-text08 {
+  top: 645px;
+  left: 101px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text13 {
+  top: 642px;
+  left: 393px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text18 {
+  top: 648px;
+  left: 709px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

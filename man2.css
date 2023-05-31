@@ -1,0 +1,2334 @@
+.man2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.man2-man2 {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 240, 1);
+}
+.man2-rectangle8 {
+  top: 56px;
+  left: -12px;
+  width: 984px;
+  height: 990px;
+  position: absolute;
+}
+.man2-text {
+  top: 453px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 196px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text001 {
+  top: 763px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 196px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-products {
+  top: 510px;
+  left: 0px;
+  width: 984px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-productcard {
+  top: 3px;
+  left: 38px;
+  width: 128px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa00122 {
+  top: -3px;
+  left: 3px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text003 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-price {
+  top: 5px;
+  left: 19px;
+  width: 116px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text005 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text007 {
+  top: 1px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text009 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text011 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star01 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star02 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star03 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text013 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-productcard01 {
+  top: 3px;
+  left: 190px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa00121 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text015 {
+  top: 128px;
+  left: 5px;
+  color: rgba(0, 0, 0, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text017 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating01 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text019 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star04 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star05 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star06 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star07 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf01 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton01 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text021 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle301 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price01 {
+  top: 4px;
+  left: 25px;
+  width: 116px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text023 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text025 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productcard02 {
+  top: 3px;
+  left: 496px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa0012101 {
+  top: 0px;
+  left: 1px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text027 {
+  top: 128px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 105px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text029 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating02 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text031 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star08 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star09 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star10 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star11 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf02 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton02 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text033 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle302 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price02 {
+  top: 7px;
+  left: 14px;
+  width: 116px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text035 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text037 {
+  top: 1px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productcard03 {
+  top: 3px;
+  left: 343px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa0012102 {
+  top: 0px;
+  left: 2px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text039 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text041 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating03 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text043 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star12 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star13 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star14 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star15 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf03 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton03 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text045 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle303 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price03 {
+  top: 5px;
+  left: 12px;
+  width: 116px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text047 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text049 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productcard04 {
+  top: 3px;
+  left: 649px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa0012103 {
+  top: 0px;
+  left: -36px;
+  width: 174px;
+  height: 135px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text051 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text053 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating04 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text055 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star16 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star17 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star18 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star19 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf04 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton04 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text057 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle304 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price04 {
+  top: 4px;
+  left: 10px;
+  width: 116px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text059 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text061 {
+  top: 1px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productcard05 {
+  top: 3px;
+  left: 802px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa0012104 {
+  top: 0px;
+  left: -11px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text063 {
+  top: 127px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text065 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating05 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text067 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star20 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star21 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star22 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star23 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf05 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton05 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text069 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle305 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price05 {
+  top: 7px;
+  left: 10px;
+  width: 116px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text071 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text073 {
+  top: 1px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productcard06 {
+  top: 3px;
+  left: 1108px;
+  width: 164px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa0012105 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text075 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text077 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating06 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text079 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star24 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star25 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star26 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star27 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf06 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton06 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text081 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle306 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price06 {
+  top: 0px;
+  left: 12px;
+  width: 116px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text083 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text085 {
+  top: 1px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productcard07 {
+  top: 3px;
+  left: 955px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa0012106 {
+  top: 2px;
+  left: -6px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text087 {
+  top: 130px;
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text089 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating07 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text091 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star28 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star29 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star30 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star31 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf07 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton07 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text093 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle307 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price07 {
+  top: 5px;
+  left: 13px;
+  width: 116px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text095 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text097 {
+  top: 1px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-frame {
+  top: 820px;
+  left: 0px;
+  width: 984px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-productcard08 {
+  top: 3px;
+  left: 38px;
+  width: 128px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa0012107 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text099 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text101 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating08 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text103 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star32 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star33 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star34 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star35 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf08 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton08 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text105 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle308 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price08 {
+  top: 114px;
+  left: 0px;
+  width: 116px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text107 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text109 {
+  top: 1px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productcard09 {
+  top: 3px;
+  left: 190px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa0012108 {
+  top: -13px;
+  left: 1px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text111 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text113 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating09 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text115 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star36 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star37 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star38 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star39 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf09 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton09 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text117 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle309 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price09 {
+  top: 114px;
+  left: 1px;
+  width: 116px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text119 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text121 {
+  top: 1px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productcard10 {
+  top: 3px;
+  left: 343px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-img20230524wa0012109 {
+  top: 0px;
+  left: 1px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.man2-text123 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text125 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-productrating10 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text127 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-solid-status-star40 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star41 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star42 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-star43 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-solid-status-starhalf10 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.man2-addtocartbutton10 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.man2-text129 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle310 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.3499999940395355);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.man2-price10 {
+  top: 114px;
+  left: 1px;
+  width: 116px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.man2-text131 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text133 {
+  top: 1px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-ad {
+  top: 169px;
+  left: 35px;
+  width: 915px;
+  height: 256px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 25px;
+}
+.man2-img20230524wa0044 {
+  top: 0px;
+  left: -1px;
+  width: 916px;
+  height: 373px;
+  position: absolute;
+}
+.man2-img20230524wa0047 {
+  top: -231px;
+  left: 1831px;
+  width: 916px;
+  height: 610px;
+  position: absolute;
+}
+.man2-img20230524wa0054 {
+  top: -205px;
+  left: 915px;
+  width: 916px;
+  height: 610px;
+  position: absolute;
+}
+.man2-img20230524wa0052 {
+  top: -46px;
+  left: 2747px;
+  width: 916px;
+  height: 716px;
+  position: absolute;
+}
+.man2-text135 {
+  top: 467px;
+  left: 37px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle9 {
+  top: 0px;
+  left: 0px;
+  width: 984px;
+  height: 94px;
+  position: absolute;
+}
+.man2-rectangle1 {
+  top: 68px;
+  left: -41px;
+  width: 1066px;
+  height: 77px;
+  position: absolute;
+  border-radius: 30px;
+}
+.man2-text137 {
+  top: 94px;
+  left: 387px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text139 {
+  top: 94px;
+  left: 536px;
+  color: rgba(0, 0, 0, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-text141 {
+  top: 94px;
+  left: 257px;
+  color: rgba(0, 0, 0, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-rectangle7 {
+  top: 89px;
+  left: 160px;
+  width: 83px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.man2-text143 {
+  top: 95px;
+  left: 173px;
+  color: rgba(255, 255, 255, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-logo-website-dpkk1 {
+  top: 9px;
+  left: -28px;
+  width: 272px;
+  height: 48px;
+  position: absolute;
+}
+.man2-logovestiario1 {
+  top: 88px;
+  left: 21px;
+  width: 44px;
+  height: 43px;
+  opacity: 0.80;
+  position: absolute;
+}
+.man2-rectangle6 {
+  top: 17px;
+  left: 754px;
+  width: 91px;
+  height: 36px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.man2-text145 {
+  top: 23px;
+  left: 778px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.man2-group1 {
+  top: 88px;
+  left: 799px;
+  width: 104px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(239, 236, 236, 0.5);
+}
+.man2-text147 {
+  top: 9px;
+  left: 22px;
+  color: rgba(0, 0, 0, 0.25);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

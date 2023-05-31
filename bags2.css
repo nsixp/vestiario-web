@@ -1,0 +1,1643 @@
+.bags2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.bags2-bags2 {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 240, 1);
+}
+.bags2-text {
+  top: 173px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 483px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text002 {
+  top: 483px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 196px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-icbaselinesearch {
+  top: 457px;
+  left: 984px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-line2 {
+  top: 123px;
+  left: 180px;
+  width: 63px;
+  height: 1px;
+  position: absolute;
+}
+.bags2-frame {
+  top: 230px;
+  left: 0px;
+  width: 984px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-productcard {
+  top: 3px;
+  left: 38px;
+  width: 128px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-img20230524wa00121 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.bags2-text004 {
+  top: 128px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-price {
+  top: 9px;
+  left: 12px;
+  width: 106px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text006 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text008 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text010 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productrating {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text012 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-solid-status-star {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star01 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star02 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star03 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-starhalf {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-ctabutton {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text014 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productcard1 {
+  top: 3px;
+  left: 190px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-img20230524wa001211 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.bags2-text016 {
+  top: 130px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text018 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productrating1 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text020 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-solid-status-star04 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star05 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star06 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star07 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-starhalf1 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-ctabutton1 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text022 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-price1 {
+  top: 4px;
+  left: 12px;
+  width: 101px;
+  height: 33px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text024 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text026 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productcard2 {
+  top: 3px;
+  left: 496px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-img20230524wa001212 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.bags2-text028 {
+  top: 128px;
+  color: rgba(0, 0, 0, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text030 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productrating2 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text032 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-solid-status-star08 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star09 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star10 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star11 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-starhalf2 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-ctabutton2 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text034 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-price2 {
+  top: 4px;
+  left: 12px;
+  width: 98px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text036 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text038 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 76px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productcard3 {
+  top: 3px;
+  left: 343px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-img20230524wa001213 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.bags2-text040 {
+  top: 128px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text042 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productrating3 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text044 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-solid-status-star12 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star13 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star14 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star15 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-starhalf3 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-ctabutton3 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text046 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-price3 {
+  top: 9px;
+  left: 12px;
+  width: 97px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text048 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text050 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productcard4 {
+  top: 3px;
+  left: 649px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-img20230524wa001214 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.bags2-text052 {
+  top: 128px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text054 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productrating4 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text056 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-solid-status-star16 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star17 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star18 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star19 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-starhalf4 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-ctabutton4 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text058 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-price4 {
+  top: 9px;
+  left: 12px;
+  width: 97px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text060 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text062 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productcard5 {
+  top: 3px;
+  left: 955px;
+  width: 160px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-img20230524wa001215 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.bags2-text064 {
+  top: 128px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text066 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productrating5 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text068 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-solid-status-star20 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star21 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star22 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star23 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-starhalf5 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-ctabutton5 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text070 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-price5 {
+  top: 9px;
+  left: 12px;
+  width: 95px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text072 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text074 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productcard6 {
+  top: 3px;
+  left: 802px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-img20230524wa001216 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.bags2-text076 {
+  top: 128px;
+  color: rgba(0, 0, 0, 1);
+  width: 106px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text078 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productrating6 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text080 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-solid-status-star24 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star25 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star26 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star27 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-starhalf6 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-ctabutton6 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text082 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-price6 {
+  top: 9px;
+  left: 12px;
+  width: 94px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text084 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text086 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-frame1 {
+  top: 527px;
+  left: 16px;
+  width: 984px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-productcard7 {
+  top: 3px;
+  left: 38px;
+  width: 128px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bags2-img20230524wa001217 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.bags2-text088 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text090 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-productrating7 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text092 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-solid-status-star28 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star29 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star30 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-star31 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-solid-status-starhalf7 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.bags2-ctabutton7 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text094 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-price7 {
+  top: 9px;
+  left: 12px;
+  width: 95px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bags2-text096 {
+  top: 1px;
+  color: rgba(255, 255, 255, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text098 {
+  left: 22px;
+  color: rgba(255, 255, 255, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-rectangle4 {
+  top: 144px;
+  left: 0px;
+  width: 982px;
+  height: 89px;
+  position: absolute;
+}
+.bags2-rectangle1 {
+  top: 68px;
+  left: -41px;
+  width: 1066px;
+  height: 77px;
+  position: absolute;
+  border-radius: 30px;
+}
+.bags2-text100 {
+  top: 94px;
+  left: 387px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text102 {
+  top: 95px;
+  left: 257px;
+  color: rgba(0, 0, 0, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-text104 {
+  top: 94px;
+  left: 173px;
+  color: rgba(0, 0, 0, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-logo-website-dpkk1 {
+  top: 9px;
+  left: -28px;
+  width: 272px;
+  height: 48px;
+  position: absolute;
+}
+.bags2-logovestiario1 {
+  top: 88px;
+  left: 21px;
+  width: 44px;
+  height: 43px;
+  opacity: 0.80;
+  position: absolute;
+}
+.bags2-rectangle6 {
+  top: 17px;
+  left: 754px;
+  width: 91px;
+  height: 36px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.bags2-text106 {
+  top: 23px;
+  left: 778px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-rectangle7 {
+  top: 89.5px;
+  left: 511.5px;
+  width: 121px;
+  height: 36px;
+  position: absolute;
+}
+.bags2-text108 {
+  top: 94px;
+  left: 536px;
+  color: rgba(255, 255, 255, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bags2-group1 {
+  top: 86px;
+  left: 796px;
+  width: 104px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(239, 236, 236, 0.5);
+}
+.bags2-text110 {
+  top: 9px;
+  left: 22px;
+  color: rgba(0, 0, 0, 0.25);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,2000 @@
+.woman-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.woman-woman {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 240, 1);
+}
+.woman-text {
+  top: 173px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 506px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-icbaselinesearch {
+  top: 457px;
+  left: 984px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-line2 {
+  top: 123px;
+  left: 180px;
+  width: 63px;
+  height: 1px;
+  position: absolute;
+}
+.woman-frame {
+  top: 230px;
+  left: 0px;
+  width: 984px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-productcard {
+  top: 3px;
+  left: 38px;
+  width: 128px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa00121 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text002 {
+  top: 139px;
+  color: rgba(0, 0, 0, 1);
+  width: 122px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text004 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text006 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star01 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star02 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star03 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text008 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price {
+  top: 119px;
+  left: 1px;
+  width: 110px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text010 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text012 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productcard01 {
+  top: 3px;
+  left: 190px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa0012101 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text014 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text016 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating01 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text018 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star04 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star05 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star06 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star07 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf01 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton01 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text020 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price01 {
+  top: 116px;
+  left: 2px;
+  width: 95px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text022 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text024 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productcard02 {
+  top: 3px;
+  left: 496px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa0012102 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text026 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text028 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating02 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text030 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star08 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star09 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star10 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star11 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf02 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton02 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text032 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price02 {
+  top: 117px;
+  left: 1px;
+  width: 109px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text034 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text036 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productcard03 {
+  top: 3px;
+  left: 343px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa0012103 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text038 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text049 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating03 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text051 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star12 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star13 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star14 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star15 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf03 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton03 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text053 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price03 {
+  top: 117px;
+  left: 0px;
+  width: 108px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text055 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text057 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productcard04 {
+  top: 3px;
+  left: 649px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa0012104 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text059 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text061 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating04 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text063 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star16 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star17 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star18 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star19 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf04 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton04 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text065 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price04 {
+  top: 118px;
+  left: 0px;
+  width: 87px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text067 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text069 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 65px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productcard05 {
+  top: 3px;
+  left: 955px;
+  width: 160px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa0012105 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text071 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text073 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating05 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text075 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star20 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star21 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star22 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star23 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf05 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton05 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text077 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price05 {
+  top: 117px;
+  left: 0px;
+  width: 101px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text079 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text081 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productcard06 {
+  top: 3px;
+  left: 802px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa0012106 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text083 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text085 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating06 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text087 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star24 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star25 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star26 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star27 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf06 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton06 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text089 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price06 {
+  top: 115px;
+  left: 0px;
+  width: 101px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text091 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text093 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-frame1 {
+  top: 485px;
+  left: 0px;
+  width: 984px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-productcard07 {
+  top: 3px;
+  left: 38px;
+  width: 128px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa0012107 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text095 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text097 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating07 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text099 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star28 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star29 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star30 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star31 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf07 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton07 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text101 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text103 {
+  top: 114px;
+  left: 29px;
+  color: rgba(0, 0, 0, 1);
+  width: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price07 {
+  top: 115px;
+  left: 7px;
+  width: 20px;
+  height: 15px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text105 {
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productcard08 {
+  top: 3px;
+  left: 190px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa0012108 {
+  top: 0px;
+  left: 1px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text107 {
+  top: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text109 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating08 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text111 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star32 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star33 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star34 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star35 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf08 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton08 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text113 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price08 {
+  top: 114px;
+  left: 0px;
+  width: 99px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text115 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text117 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productcard09 {
+  top: 3px;
+  left: 343px;
+  width: 129px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.woman-img20230524wa0012109 {
+  top: -13px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  border-radius: 15px;
+}
+.woman-text119 {
+  top: 128px;
+  left: 3px;
+  color: rgba(0, 0, 0, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text121 {
+  top: 152px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-productrating09 {
+  top: 165px;
+  left: 0px;
+  width: 92px;
+  height: 11px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text123 {
+  left: 60px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-solid-status-star36 {
+  top: 1px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star37 {
+  top: 1px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star38 {
+  top: 1px;
+  left: 24px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-star39 {
+  top: 1px;
+  left: 36px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-solid-status-starhalf09 {
+  top: 1px;
+  left: 48px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.woman-ctabutton09 {
+  top: 184px;
+  left: 0px;
+  width: 72px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text125 {
+  top: 4px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-price09 {
+  top: 109px;
+  left: 5px;
+  width: 95px;
+  height: 29px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.woman-text127 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text129 {
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-rectangle4 {
+  top: 144px;
+  left: -76px;
+  width: 982px;
+  height: 89px;
+  position: absolute;
+}
+.woman-rectangle1 {
+  top: 68px;
+  left: -41px;
+  width: 1066px;
+  height: 77px;
+  position: absolute;
+  border-radius: 30px;
+}
+.woman-text131 {
+  top: 94px;
+  left: 387px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text133 {
+  top: 94px;
+  left: 536px;
+  color: rgba(0, 0, 0, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-rectangle7 {
+  top: 89px;
+  left: 248px;
+  width: 121px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.woman-text135 {
+  top: 95px;
+  left: 257px;
+  color: rgba(255, 255, 255, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text137 {
+  top: 94px;
+  left: 173px;
+  color: rgba(0, 0, 0, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-logo-website-dpkk1 {
+  top: 9px;
+  left: -28px;
+  width: 272px;
+  height: 48px;
+  position: absolute;
+}
+.woman-logovestiario1 {
+  top: 88px;
+  left: 21px;
+  width: 44px;
+  height: 43px;
+  opacity: 0.80;
+  position: absolute;
+}
+.woman-rectangle5 {
+  top: 17px;
+  left: 857px;
+  width: 107px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.woman-rectangle6 {
+  top: 17px;
+  left: 754px;
+  width: 91px;
+  height: 36px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+}
+.woman-text139 {
+  top: 24px;
+  left: 885px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-text141 {
+  top: 23px;
+  left: 778px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.woman-group1 {
+  top: 87px;
+  left: 796px;
+  width: 104px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(239, 236, 236, 0.5);
+}
+.woman-text143 {
+  top: 9px;
+  left: 22px;
+  color: rgba(0, 0, 0, 0.25);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

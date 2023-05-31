@@ -1,0 +1,333 @@
+.checkout3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.checkout3-checkout3 {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 240, 1);
+}
+.checkout3-rectangle1 {
+  top: 69px;
+  left: -41px;
+  width: 1066px;
+  height: 929px;
+  position: absolute;
+  border-radius: 30px;
+}
+.checkout3-logo-website-dpkk1 {
+  top: 10px;
+  left: 7px;
+  width: 272px;
+  height: 48px;
+  position: absolute;
+}
+.checkout3-logovestiario1 {
+  top: 15px;
+  left: 16px;
+  width: 44px;
+  height: 43px;
+  opacity: 0.80;
+  position: absolute;
+}
+.checkout3-outline-status-lock {
+  top: 477px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.checkout3-img20230524wa00491 {
+  top: 69px;
+  left: -183px;
+  width: 1232px;
+  height: 929px;
+  opacity: 0.20;
+  position: absolute;
+}
+.checkout3-frame1 {
+  top: 651px;
+  left: 271px;
+  width: 442px;
+  height: 157px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.checkout3-rectangle16 {
+  top: 0px;
+  left: 0px;
+  width: 442px;
+  height: 157px;
+  position: absolute;
+}
+.checkout3-text {
+  top: 15px;
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  width: 301px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout3-productrating {
+  top: 58px;
+  left: 25px;
+  width: 212.478271484375px;
+  height: 25.09089469909668px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.checkout3-text02 {
+  top: 0.545440673828125px;
+  left: 137px;
+  color: rgba(0, 0, 0, 0.3499999940395355);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout3-solid-status-star {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 25px;
+  position: absolute;
+}
+.checkout3-solid-status-star1 {
+  top: 0px;
+  left: 28.30436897277832px;
+  width: 24px;
+  height: 25px;
+  position: absolute;
+}
+.checkout3-solid-status-star2 {
+  top: 0px;
+  left: 56.60867691040039px;
+  width: 24px;
+  height: 25px;
+  position: absolute;
+}
+.checkout3-solid-status-star3 {
+  top: 0px;
+  left: 84.91304779052734px;
+  width: 24px;
+  height: 25px;
+  position: absolute;
+}
+.checkout3-solid-status-starhalf {
+  top: 0px;
+  left: 113.21741485595703px;
+  width: 24px;
+  height: 25px;
+  position: absolute;
+}
+.checkout3-price {
+  top: 93px;
+  left: 24px;
+  width: 219px;
+  height: 76.04938507080078px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.checkout3-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout3-text06 {
+  top: 4px;
+  left: 52px;
+  color: rgba(0, 0, 0, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout3-rectangle17 {
+  top: 69px;
+  left: -27px;
+  width: 306px;
+  height: 739px;
+  position: absolute;
+  border-radius: 15px;
+}
+.checkout3-rectangle171 {
+  top: 69px;
+  left: 704px;
+  width: 306px;
+  height: 739px;
+  position: absolute;
+  border-radius: 15px;
+}
+.checkout3-rectangle18 {
+  top: 69px;
+  left: 250px;
+  width: 463px;
+  height: 739px;
+  position: absolute;
+  border-radius: 15px;
+}
+.checkout3-image8p-jtg-kk-a7ws-us1-xd-d4x7cs56k5b--xyy2v-ufk-jz-scpla {
+  top: 84px;
+  left: 60px;
+  width: 443px;
+  height: 582px;
+  position: absolute;
+}
+.checkout3-text08 {
+  top: 319px;
+  left: 544px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout3-text10 {
+  top: 210px;
+  left: 544px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout3-text12 {
+  top: 106px;
+  left: 544px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout3-rectangle19 {
+  top: 358px;
+  left: 544px;
+  width: 314px;
+  height: 65px;
+  position: absolute;
+}
+.checkout3-rectangle191 {
+  top: 254px;
+  left: 544px;
+  width: 314px;
+  height: 65px;
+  position: absolute;
+}
+.checkout3-rectangle192 {
+  top: 145px;
+  left: 543px;
+  width: 314px;
+  height: 65px;
+  position: absolute;
+}
+.checkout3-rectangle20 {
+  top: 526px;
+  left: 574px;
+  width: 259px;
+  height: 55px;
+  opacity: 0.90;
+  position: absolute;
+}
+.checkout3-text14 {
+  top: 534px;
+  left: 605px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.checkout3-rectangle21 {
+  top: 71px;
+  left: -64px;
+  width: 1111px;
+  height: 754px;
+  opacity: 0.80;
+  position: absolute;
+}
+.checkout3-text16 {
+  top: 319px;
+  left: 296px;
+  color: rgba(255, 255, 255, 1);
+  width: 447px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

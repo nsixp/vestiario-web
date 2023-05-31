@@ -1,0 +1,214 @@
+.register-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.register-register {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 240, 1);
+}
+.register-rectangle1 {
+  top: 69px;
+  left: -41px;
+  width: 1066px;
+  height: 929px;
+  position: absolute;
+  border-radius: 30px;
+}
+.register-logo-website-dpkk1 {
+  top: 222px;
+  left: 370px;
+  width: 272px;
+  height: 48px;
+  position: absolute;
+}
+.register-img20230524wa00531 {
+  top: 69px;
+  left: -55px;
+  width: 1084px;
+  height: 685px;
+  opacity: 0.50;
+  position: absolute;
+}
+.register-logovestiario1 {
+  top: 225px;
+  left: 380px;
+  width: 44px;
+  height: 43px;
+  opacity: 0.80;
+  position: absolute;
+}
+.register-rectangle5 {
+  top: 349px;
+  left: 325px;
+  width: 311px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.register-text {
+  top: 294px;
+  left: 435px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-rectangle9 {
+  top: 410px;
+  left: 325px;
+  width: 311px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.register-text02 {
+  top: 331px;
+  left: 346px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-text04 {
+  top: 393px;
+  left: 339px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-outline-status-lock {
+  top: 477px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.register-solid-communication-user {
+  top: 355px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.register-rectangle10 {
+  top: 471px;
+  left: 325px;
+  width: 311px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.register-rectangle11 {
+  top: 534px;
+  left: 325px;
+  width: 311px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.register-solid-communication-envelope {
+  top: 417px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.register-text06 {
+  top: 453px;
+  left: 339px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-solid-status-lock {
+  top: 477px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.register-solid-status-lock1 {
+  top: 543px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.register-text08 {
+  top: 513px;
+  left: 339px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-rectangle12 {
+  top: 594px;
+  left: 423px;
+  width: 129px;
+  height: 27px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 25px;
+}
+.register-text10 {
+  top: 599px;
+  left: 459px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

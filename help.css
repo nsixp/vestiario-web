@@ -1,0 +1,179 @@
+.help-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.help-help {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 240, 240, 1);
+}
+.help-rectangle1 {
+  top: 69px;
+  left: -41px;
+  width: 1066px;
+  height: 929px;
+  position: absolute;
+  border-radius: 30px;
+}
+.help-logo-website-dpkk1 {
+  top: 222px;
+  left: 370px;
+  width: 272px;
+  height: 48px;
+  position: absolute;
+}
+.help-img20230524wa00531 {
+  top: 68px;
+  left: -50px;
+  width: 1084px;
+  height: 685px;
+  opacity: 0.10;
+  position: absolute;
+}
+.help-logovestiario1 {
+  top: 225px;
+  left: 380px;
+  width: 44px;
+  height: 43px;
+  opacity: 0.80;
+  position: absolute;
+}
+.help-text {
+  top: 305px;
+  left: 452px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-rectangle9 {
+  top: 410px;
+  left: 325px;
+  width: 311px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.help-text02 {
+  top: 376px;
+  left: 404px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-text04 {
+  top: 393px;
+  left: 339px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-outline-status-lock {
+  top: 477px;
+  left: 339px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.help-rectangle10 {
+  top: 471px;
+  left: 325px;
+  width: 311px;
+  height: 36px;
+  position: absolute;
+  border-radius: 25px;
+}
+.help-text06 {
+  top: 453px;
+  left: 339px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-text08 {
+  top: 526px;
+  left: 370px;
+  color: rgba(0, 0, 0, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-text10 {
+  top: 419px;
+  left: 344px;
+  color: rgba(245, 241, 241, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.help-text12 {
+  top: 479px;
+  left: 344px;
+  color: rgba(245, 241, 241, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
